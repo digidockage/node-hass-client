@@ -1,6 +1,6 @@
 {
   "name": "@digidockage/node-hass-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js websocket client for Home Assistant.",
   "main": "src/index.js",
   "scripts": {
